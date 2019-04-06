@@ -14,6 +14,7 @@
 		F192ECFD225843B400D183F6 /* ColorsWithNavigationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F192ECFC225843B400D183F6 /* ColorsWithNavigationTests.swift */; };
 		F192ED08225843B400D183F6 /* ColorsWithNavigationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F192ED07225843B400D183F6 /* ColorsWithNavigationUITests.swift */; };
 		F192ED162258441D00D183F6 /* ColorsWithNavViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F192ED152258441D00D183F6 /* ColorsWithNavViewController.swift */; };
+		F192ED182258482C00D183F6 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = F192ED172258482C00D183F6 /* Color.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F192ED07225843B400D183F6 /* ColorsWithNavigationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsWithNavigationUITests.swift; sourceTree = "<group>"; };
 		F192ED09225843B400D183F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F192ED152258441D00D183F6 /* ColorsWithNavViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsWithNavViewController.swift; sourceTree = "<group>"; };
+		F192ED172258482C00D183F6 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F192ECEE225843B400D183F6 /* Assets.xcassets */,
 				F192ECF0225843B400D183F6 /* LaunchScreen.storyboard */,
 				F192ECF3225843B400D183F6 /* Info.plist */,
+				F192ED172258482C00D183F6 /* Color.swift */,
 			);
 			path = ColorsWithNavigation;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				F192ED162258441D00D183F6 /* ColorsWithNavViewController.swift in Sources */,
 				F192ECE8225843B300D183F6 /* AppDelegate.swift in Sources */,
+				F192ED182258482C00D183F6 /* Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
