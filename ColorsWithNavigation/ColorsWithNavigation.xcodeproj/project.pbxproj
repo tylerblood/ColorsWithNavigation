@@ -15,6 +15,7 @@
 		F192ED08225843B400D183F6 /* ColorsWithNavigationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F192ED07225843B400D183F6 /* ColorsWithNavigationUITests.swift */; };
 		F192ED162258441D00D183F6 /* ColorsWithNavViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F192ED152258441D00D183F6 /* ColorsWithNavViewController.swift */; };
 		F192ED182258482C00D183F6 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = F192ED172258482C00D183F6 /* Color.swift */; };
+		F192ED1A22584E2100D183F6 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F192ED1922584E2100D183F6 /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F192ED09225843B400D183F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F192ED152258441D00D183F6 /* ColorsWithNavViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsWithNavViewController.swift; sourceTree = "<group>"; };
 		F192ED172258482C00D183F6 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		F192ED1922584E2100D183F6 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				F192ECE7225843B300D183F6 /* AppDelegate.swift */,
 				F192ED152258441D00D183F6 /* ColorsWithNavViewController.swift */,
+				F192ED1922584E2100D183F6 /* ColorDetailViewController.swift */,
 				F192ECEB225843B300D183F6 /* Main.storyboard */,
 				F192ECEE225843B400D183F6 /* Assets.xcassets */,
 				F192ECF0225843B400D183F6 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				F192ED162258441D00D183F6 /* ColorsWithNavViewController.swift in Sources */,
 				F192ECE8225843B300D183F6 /* AppDelegate.swift in Sources */,
 				F192ED182258482C00D183F6 /* Color.swift in Sources */,
+				F192ED1A22584E2100D183F6 /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
